@@ -1,7 +1,7 @@
 # GADS2020_leaderboard
 Practice android app that displays a live representation of the GADS 2020 program leaderboard
 
-#screen shots:
+##screen shots
 ![SS1](https://github.com/MohammedElGharawy/GADS2020_leaderboard/blob/master/Screenshots/Screenshot_2020.09.11_21.07.28.jpg)
 ![SS2](https://github.com/MohammedElGharawy/GADS2020_leaderboard/blob/master/Screenshots/Screenshot_2020.09.11_21.07.41.jpg)
 ![SS3](https://github.com/MohammedElGharawy/GADS2020_leaderboard/blob/master/Screenshots/Screenshot_2020.09.11_21.07.54.jpg)
